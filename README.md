@@ -1,4 +1,4 @@
-# Provenance.io Mainnet Validator Node Setup
+# Provenance.io Testnet Validator Node Setup
 
 ![](https://www.synergynodes.com/youtube/Provenance_Testnet_Validator_Node.jpg)
 
