@@ -158,7 +158,7 @@ journalctl -t provenanced -f
 Make sure to copy the 24 words Mnemonics Phrase, save it in a file and store it on a safe location.
 
 ```
-provenanced keys add validator --testnet --hd-path "44'/1'/0'/0/0'" --home /home/pro/.provenanced
+provenanced keys add validator --testnet --hd-path "44'/1'/0'/0/0'" --home /home/node/.provenanced
 ```
 
 ## Get some HASH from Provenance faucet
